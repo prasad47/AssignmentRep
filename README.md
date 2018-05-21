@@ -1,4 +1,4 @@
-# Node.js jsonwebtoken Example
+# Node.js Token based Authentication Example
 
 > Token Based Authentication 
 
