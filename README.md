@@ -1,6 +1,6 @@
 # Node.js jsonwebtoken Example
 
-> Making Apis Secured 
+> Token Based Authentication 
 
 ## Quick Start
 
